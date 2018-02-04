@@ -82,6 +82,7 @@
     android:layout_width="30dp"
     android:layout_height="30dp"
     android:layout_alignBottom="@+id/btn_sign_up"
+    android:layout_alignRight="@+id/btn_sign_up"
     android:layout_alignEnd="@+id/btn_sign_up"
     android:background="@drawable/rounded_btn"
     android:layout_marginBottom="5dp"
